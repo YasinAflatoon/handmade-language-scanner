@@ -1,0 +1,3 @@
+C:/Users/Yasin/CLionProjects/HandmadeScanner/cmake-build-debug/CMakeFiles/HandmadeScanner.dir
+C:/Users/Yasin/CLionProjects/HandmadeScanner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yasin/CLionProjects/HandmadeScanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
