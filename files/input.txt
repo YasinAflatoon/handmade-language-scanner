@@ -1,0 +1,17 @@
+a ~52627;
+b +~ 405;
+c ~ a + b * d / f
+float g ~ 4.56
+str s ~ "string test";
+bool bo ~ (True eth True awa False)
+when (bo){
+    a ~ b;
+} nothen {
+    b ~ a;
+}
+&> Single line comment
+concolo("Hello World!");
+&< multiline comment
+example is here>
+
+"unidentified token example
